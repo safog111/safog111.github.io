@@ -31,3 +31,16 @@ h1, h2, strong {
 a {
     color: #e81c4f;
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #d8d8d8;
+}
+
+footer a {
+    color: #d8d8d8;
+}
