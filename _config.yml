@@ -8,7 +8,7 @@ twitter_username: safog111
 github_username:  safog111
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
