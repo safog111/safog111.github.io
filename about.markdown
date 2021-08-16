@@ -5,5 +5,3 @@ permalink: /about/
 ---
 
 So who am I? And why should you take me seriously?
-
-TODO: Write up a little intro.
